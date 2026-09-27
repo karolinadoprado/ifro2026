@@ -140,7 +140,7 @@ graph TD
 
 
 
-# 🌐 Simulação de Ambiente Hierárquico de Rede Local
+# Simulação de Ambiente Hierárquico de Rede Local
 
 Relatório prático referente à atividade de simulação de uma rede corporativa estruturada em camadas no **Cisco Packet Tracer**, contemplando escalabilidade, hierarquia, redundância e disponibilidade[cite: 1].
 
@@ -157,7 +157,7 @@ Esta atividade consistiu na implementação física e estrutural de um cenário 
 
 ---
 
-## 🚀 Testes de Conectividade e Validação (Bônus de IP e Ping)
+## 🚀 Testes de Conectividade e Validação 
 
 Para garantir a comunicação lógica de ponta a ponta e validar o bônus da atividade[cite: 1], foi configurado o endereçamento IP estático na sub-rede `192.168.1.0/24` em todos os dispositivos finais. Abaixo estão as evidências e ênfases nos testes de `ping`:
 
@@ -166,7 +166,15 @@ Os testes executados a partir das estações de trabalho e notebooks da borda em
 
 > **Print / Evidência do Ping para o Servidor:**
 > ```text
-> [ ]
+> [<img width="678" height="711" alt="Captura de tela 2026-09-27 174054" src="https://github.com/user-attachments/assets/53d1864f-e494-4fb4-9be5-73731b459733" />
+<img width="685" height="698" alt="Captura de tela 2026-09-27 174038" src="https://github.com/user-attachments/assets/726c87f2-1b3f-447c-a543-c0930345b6b4" />
+<img width="667" height="709" alt="Captura de tela 2026-09-27 173957" src="https://github.com/user-attachments/assets/b52c3a70-d23f-48a3-a9fe-8bca21729208" />
+<img width="678" height="694" alt="Captura de tela 2026-09-27 173904" src="https://github.com/user-attachments/assets/0161ad14-214b-44b1-b955-d5f060a9ca82" />
+<img width="685" height="672" alt="Captura de tela 2026-09-27 173832" src="https://github.com/user-attachments/assets/3f21af7e-bfd6-4db7-9d17-65f8ba4957c5" />
+<img width="689" height="702" alt="Captura de tela 2026-09-27 173709" src="https://github.com/user-attachments/assets/f3aac39c-3048-4a20-a469-05834a7817e5" />
+<img width="681" height="704" alt="Captura de tela 2026-09-27 173632" src="https://github.com/user-attachments/assets/da91ea69-ff90-4921-9a8e-d44efaa4bb1d" />
+<img width="683" height="706" alt="Captura de tela 2026-09-27 173511" src="https://github.com/user-attachments/assets/6ad197c2-0d2b-4b3b-a1ad-b210c62967cd" />
+ ]
 > ```
 
 ### 2. Comunicação entre Desktops e Notebooks de Lados Opostos
@@ -174,7 +182,14 @@ Os pings cruzados realizados entre máquinas conectadas a switches de borda dife
 
 > **Print / Evidência do Ping entre os Computadores/Laptops:**
 > ```text
-> [ C ]
+> [ <img width="680" height="715" alt="Captura de tela 2026-09-27 192419" src="https://github.com/user-attachments/assets/3a22e1e4-9707-4f2b-b6ba-8e9d6a435bfc" />
+<img width="683" height="713" alt="Captura de tela 2026-09-27 192355" src="https://github.com/user-attachments/assets/e1f80de4-6f53-44d6-98e5-47fe5f067e8d" />
+<img width="681" height="713" alt="Captura de tela 2026-09-27 192338" src="https://github.com/user-attachments/assets/13f9ddd9-0617-4b31-a9b8-9b9d4002d1ae" />
+<img width="681" height="717" alt="Captura de tela 2026-09-27 192315" src="https://github.com/user-attachments/assets/aa2f4989-941f-45c5-8cb5-a2693112a2d9" />
+<img width="689" height="713" alt="Captura de tela 2026-09-27 192258" src="https://github.com/user-attachments/assets/8ee38254-0545-4f8e-875c-f3080a2c3ceb" />
+<img width="689" height="711" alt="Captura de tela 2026-09-27 192233" src="https://github.com/user-attachments/assets/4d678532-f12e-4c20-901c-c9f2b1dad1bd" />
+<img width="691" height="713" alt="Captura de tela 2026-09-27 192157" src="https://github.com/user-attachments/assets/feb87fd1-68b3-43e0-a49c-108c0fe5ae90" />
+]
 > ```
 
 ---
